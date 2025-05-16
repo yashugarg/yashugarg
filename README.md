@@ -1,15 +1,20 @@
-## Hey 👋, I'm Yashu Garg
+## 👋 Hi there, I'm Yashu Garg
 
-### 👨🏻‍💻 &nbsp;About Me
+I'm a **Full Stack Engineer** passionate about building reliable, scalable, and user-centric software. Currently working at **Zenskar** as a **Founding Engineer**, where I’ve led projects across product billing, CRM integrations, and customer portals.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Information Technology & Mathematical Innovations at Cluster Innovation Center, University of Delhi.\
-💡 &nbsp;I like to make cool stuff that people would love to use. \
-🌱 &nbsp;My goal this year, is to learn more about Data Structures, Machine Learning and Web Development.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at [garg.y2001@gmail.com](mailto:garg.y2001@gmail.com)!\
-💻 &nbsp;Porfolio website: [yashugarg.com](https://yashugarg.com)\
-📃 &nbsp;[Resume Link](https://yashugarg.com/resume.pdf)
+### 🚀 About Me
+
+👨‍💻 Experience in full-stack development, cloud infrastructure, and integrations \
+🎓 B.Tech in IT & Mathematical Innovations from **University of Delhi** \
+🛠 Skilled in **React**, **TypeScript**, **Flutter**, **Node.js**, **Python**, and **Ruby on Rails** \
+🧠 Exploring **Machine Learning**, **DSA**, and building tools people love \
+💬 Always open to a good conversation — feel free to reach out!
+
+### 🔗 Connect with Me
+
+* 📬 [garg.y2001@gmail.com](mailto:garg.y2001@gmail.com)
+* 🌐 [Portfolio](https://yashugarg.com) • [Resume](https://yashugarg.com/resume.pdf)
+* 💼 [LinkedIn](https://www.linkedin.com/in/yashugarg)
 
 ---
 
@@ -53,3 +58,9 @@
 <a href="https://www.instagram.com/yashugarg20"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=yashugarg&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" alt="yashugarg" />
 </p>
+
+---
+
+> 📝 *Check out my [resume](https://yashugarg.com/resume.pdf) or [portfolio](https://yashugarg.com) for more about my projects and experience.*
+
+---
